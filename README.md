@@ -1,6 +1,5 @@
-# Hi 👋, I'm Adeyemi Temitope Adejare
-
-## IT Support Technician | Automation Specialist | Digital Workplace Engineer
+<h1 align="center">Hi 👋, I'm Adeyemi Temitope Adejare</h1>
+<h3 align="center">IT Support Technician | Automation Specialist | Digital Workplace Engineer</h3>
 
 As a detail-oriented IT Support professional with proven expertise in **workflow automation**, **endpoint management**, and **identity & access management**, I specialize in streamlining IT operations through intelligent automation and modern tooling. With hands-on experience from **Neumann Kaffee Gruppe** and a strong foundation in **Active Directory**, **PowerShell scripting**, and **cloud integration**, I excel at building scalable solutions that enhance user experience while maintaining security and compliance.
 
@@ -98,24 +97,24 @@ I hold an MSc in **Hydro Science & Engineering** and transitioned into IT—prov
 - 🎓 **Diploma in Cyber Security** - Alison (Dec 2024)
 - 📚 **Cisco CCNA** - In Progress
 
-## 🎯 **What Drives Me**
-
-> "The best IT support is the one users never notice—because everything just works."
-
-I believe in **proactive automation** over reactive troubleshooting. My goal is to build systems where common issues resolve themselves, allowing IT teams to focus on innovation rather than firefighting.
-
 ---
 
 ## 📫 **Let's Connect!**
 
-<p align="left">
-<a href="https://linkedin.com/in/adeyemi-temitope-a-2019432a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/Temmythourpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-<a href="mailto:temmythourpe1907@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email" height="30" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/adeyemi-temitope-a-2019432a6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" style="margin: 0 10px;" />
+  </a>
+  <a href="https://github.com/Temmythourpe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" style="margin: 0 10px;" />
+  </a>
+  <a href="mailto:temmythourpe1907@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" style="margin: 0 10px;" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=temmythourpe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Temmythourpe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
