@@ -34,8 +34,8 @@ My passion lies in bridging the gap between traditional IT support and modern De
 
 ### 📫 **How to Reach Me**
 **Email:** temmythourpe1907@gmail.com  
-**LinkedIn:** [Adeyemi Temitope](https://www.linkedin.com/in/adeyemi-temitope-a-2019432a6/)  
-**Location:** Dresden, Germany 🇩🇪
+**LinkedIn:** [Adeyemi Temitope Adejare](https://www.linkedin.com/in/adeyemi-temitope-a-2019432a6/)  
+**Location:** Germany
 
 ### 📄 **Know About My Experiences**
 - **1 year** as IT Support Intern at **Neumann Kaffee Gruppe** (Hamburg)
@@ -91,10 +91,14 @@ I hold an MSc in **Hydro Science & Engineering** and transitioned into IT—prov
 
 ## 📊 **GitHub Stats**
 
-![Temmy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Temmythourpe&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Temmythourpe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temmythourpe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Temmythourpe&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Temmythourpe&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 ---
 
 ## 🏆 **Certifications**
@@ -106,49 +110,6 @@ I hold an MSc in **Hydro Science & Engineering** and transitioned into IT—prov
 - 🎓 **Diploma in Cyber Security** - Alison (Dec 2024)
 - 📚 **Cisco CCNA** - In Progress
 
----
-
-## 🚀 **Featured Projects**
-
-### [🤖 AI-Powered IT Support Automation](https://github.com/Temmythourpe/IT-Support-Automation)
-Enterprise-grade ticketing system using **n8n**, **Groq AI**, and intelligent routing to auto-resolve 40% of support requests.
-
-**Tech Stack:** n8n | Groq AI | Google Sheets | PowerShell  
-**Impact:** Instant password resets, smart categorization, real-time analytics
-
----
-
-### [🔐 Okta & Active Directory SSO Integration Lab](https://github.com/Temmythourpe/okta-ad-sso-integration)
-Hybrid identity management solution integrating on-premise AD with cloud-based Okta for SAML 2.0 SSO.
-
-**Tech Stack:** Active Directory | Okta | SAML 2.0 | Windows Server  
-**Skills:** Identity federation, hybrid cloud, enterprise SSO
-
----
-
-### [👥 Active Directory Automation & GPO Management](https://github.com/Temmythourpe/Active-Directory-User-Management)
-Automated user lifecycle management across 7 departments using PowerShell scripts and role-based GPOs.
-
-**Tech Stack:** PowerShell | Active Directory | Group Policy | Windows Server  
-**Skills:** Scripting, lifecycle automation, security policies
-
----
-
-### [🛡️ SIEM Integration Lab with Splunk](https://github.com/Temmythourpe/SIEM-LAB)
-Real-time threat detection and log analysis using Windows Event Forwarding and Splunk integration.
-
-**Tech Stack:** Active Directory | Splunk | Windows Event Log | SIEM  
-**Skills:** Security monitoring, log analysis, threat detection
-
----
-
-## 📈 **Professional Timeline**
-```
-2024-Present  │ IT Support Intern - Neumann Kaffee Gruppe (Hamburg)
-2023          │ ERASMUS Intern - Jan Evangelista Purkyně University (Czech Republic)
-2020-2024     │ MSc Hydro Science - TU Dresden
-2017-2020     │ IT Project Manager - KwamePrep International Consult
-2016-2017     │ Technical Support - Ogun State Ministry of Environment
 ```
 
 ---
