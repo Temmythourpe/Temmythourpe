@@ -99,6 +99,7 @@ I hold an MSc in **Hydro Science & Engineering** and transitioned into IT—prov
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Temmythourpe&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
+
 ---
 
 ## 🏆 **Certifications**
@@ -110,3 +111,18 @@ I hold an MSc in **Hydro Science & Engineering** and transitioned into IT—prov
 - 🎓 **Diploma in Cyber Security** - Alison (Dec 2024)
 - 📚 **Cisco CCNA** - In Progress
 
+## 🎯 What Drives Me
+
+> "The best IT support is the one users never notice—because everything just works."
+
+I believe in proactive automation over reactive troubleshooting. My goal is to build systems where common issues resolve themselves, allowing IT teams to focus on innovation rather than firefighting.
+
+---
+
+## 📫 Let's Connect
+
+**LinkedIn:** [Adeyemi Temitope](https://linkedin.com/in/adeyemi-temitope-a-2019432a6)  
+**Email:** temmythourpe1907@gmail.com  
+**GitHub:** [@Temmythourpe](https://github.com/Temmythourpe)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Temmythourpe&color=blue&style=flat)
