@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adeyemi Temitope Adejare</h1>
 <h3 align="center">IT Support Technician | Automation Specialist | Digital Workplace Engineer</h3>
 
-As a detail-oriented IT Support professional with proven expertise in **workflow automation**, **endpoint management**, and **identity & access management**, I specialize in streamlining IT operations through intelligent automation and modern tooling. With hands-on experience from **Neumann Kaffee Gruppe** and a strong foundation in **Active Directory**, **PowerShell scripting**, and **cloud integration**, I excel at building scalable solutions that enhance user experience while maintaining security and compliance.
+As a detail-oriented IT Support professional with proven expertise in **workflow automation**, **endpoint management**, and **identity & access management**, I specialize in streamlining IT operations through intelligent automation and modern tooling. With hands-on experience in **Active Directory**, **PowerShell scripting**, and **cloud integration**, I excel at building scalable solutions that enhance user experience while maintaining security and compliance.
 
 My passion lies in bridging the gap between traditional IT support and modern DevOps practices—leveraging tools like **n8n**, **Intune**, **PowerShell**, and **AI** to automate repetitive tasks, reduce ticket resolution time, and empower teams to focus on strategic initiatives. I thrive in environments where I can combine technical problem-solving with process optimization to deliver measurable business value.
 
