@@ -1,29 +1,29 @@
-<h1 align="center">Hi 👋, I'm Adeyemi Temitope Adejare</h1>
+<h1 align="center">Hi, I'm Adeyemi Temitope Adejare</h1>
 <h3 align="center">IT Support Technician | Automation Specialist | Digital Workplace Engineer</h3>
 
-As a detail-oriented IT Support professional with proven expertise in **workflow automation**, **endpoint management**, and **identity & access management**, I specialize in streamlining IT operations through intelligent automation and modern tooling. With hands-on experience in **Active Directory**, **PowerShell scripting**, and **cloud integration**, I excel at building scalable solutions that enhance user experience while maintaining security and compliance.
+My focus is on delivering exceptional customer experiences through technical expertise, collaboration, and operational excellence. My role encompasses issue resolution, implementation success, and process optimization, ensuring that customers and partners receive timely, effective, and scalable solutions. I work closely with Engineering and Professional Services to align technology with business objectives and deliver a seamless, end-to-end support experience.
 
-My passion lies in bridging the gap between traditional IT support and modern DevOps practices—leveraging tools like **n8n**, **Intune**, **PowerShell**, and **AI** to automate repetitive tasks, reduce ticket resolution time, and empower teams to focus on strategic initiatives. I thrive in environments where I can combine technical problem-solving with process optimization to deliver measurable business value.
+A key part of my mission is driving automation, tooling, and AI-powered innovation to make your support operations more efficient and proactive. By leveraging intelligent systems and data-driven insights, I help reduce response times, boost productivity, and elevate service quality. I’m passionate about building an environment where people, processes, and technology work in harmony, thereby empowering teams to deliver meaningful, lasting impact for customers.
 
 ---
 
-### 🔭 **Currently Working On**
+### **Currently Working On**
 - AI-powered IT support automation using **n8n** and **Groq AI**
 - Advanced **Active Directory** automation and lifecycle management labs
 - **SIEM integration** projects with Splunk for threat detection
 
-### 🌱 **Currently Learning**
+### **Currently Learning**
 - **Cisco CCNA** (In Progress)
 - Advanced **ServiceNow** workflow automation
 - **Azure** cloud administration and hybrid identity solutions
 
-### 👯 **Looking to Collaborate On**
+### **Looking to Collaborate On**
 - IT automation projects (PowerShell, n8n, Azure Automation)
 - Identity & Access Management (Okta, Entra ID, SAML/SSO)
 - Enterprise endpoint management solutions (Intune, JAMF)
 - SIEM/SOAR security automation
 
-### 💬 **Ask Me About**
+### **Ask Me About**
 - **Active Directory** & Group Policy management
 - **PowerShell** scripting for IT automation
 - **Microsoft Intune** & endpoint deployment strategies
@@ -31,23 +31,14 @@ My passion lies in bridging the gap between traditional IT support and modern De
 - **Okta/SAML** SSO implementation
 - **ServiceNow** & ITSM best practices
 
-### 📫 **How to Reach Me**
+### **How to Reach Me**
 **Email:** temmythourpe1907@gmail.com  
 **LinkedIn:** [Adeyemi Temitope Adejare](https://www.linkedin.com/in/adeyemi-temitope-a-2019432a6/)  
 **Location:** Germany
 
-### 📄 **Know About My Experiences**
-- **1 year** as IT Support Intern at **Neumann Kaffee Gruppe** (Hamburg)
-- Automated **employee onboarding/offboarding** for 500+ users
-- Reduced software deployment time by **60%** using PowerShell & Intune
-- Implemented **SIEM monitoring** and security compliance workflows
-
-### ⚡ **Fun Fact**
-I hold an MSc in **Hydro Science & Engineering** and transitioned into IT—proving that problem-solving skills transcend industries! When I'm not automating workflows, I'm exploring how AI can transform traditional IT operations.
-
 ---
 
-## 🛠️ **Languages and Tools**
+## **Languages and Tools**
 
 ### **Scripting & Automation**
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
@@ -88,18 +79,7 @@ I hold an MSc in **Hydro Science & Engineering** and transitioned into IT—prov
 
 ---
 
-## 🏆 **Certifications**
-
-- 🎓 **Certified Generative AI Professional** - Oracle Cloud Infrastructure (Nov 2025)
-- 🎓 **Oracle Fusion AI Agent Studio Foundations** - Oracle (Oct 2025)
-- 🎓 **Certified Networking Professional** - Oracle Cloud Infrastructure (Sep 2025)
-- 🎓 **Certified AI Foundations Associate** - Oracle Cloud Infrastructure (Jul 2025)
-- 🎓 **Diploma in Cyber Security** - Alison (Dec 2024)
-- 📚 **Cisco CCNA** - In Progress
-
----
-
-## 📫 **Let's Connect!**
+## **Let's Connect!**
 
 <p align="center">
   <a href="https://linkedin.com/in/adeyemi-temitope-a-2019432a6" target="_blank">
