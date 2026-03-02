@@ -3,7 +3,7 @@
 
 I focus on delivering exceptional customer experiences through a blend of technical expertise, collaboration, and operational excellence. With a customer‑centric mindset, I prioritize high‑quality service, clear communication, and solutions that create lasting value. My work spans issue resolution, implementation success, and process optimization, ensuring customers and partners receive timely, effective, and scalable support. I collaborate closely with Engineering and Professional Services to align technology with business goals and provide a seamless end‑to‑end experience.
 
-A core part of my mission is driving automation, tooling, and AI‑powered innovation to make support operations more efficient and proactive. By leveraging intelligent systems and data‑driven insights, I help reduce response times, improve productivity, and elevate service quality. I’m passionate about building environments where people, processes, and technology work in harmony—empowering teams to deliver meaningful, long‑term impact for customers.
+A core part of my mission is driving automation, tooling, and AI‑powered innovation to make support operations more efficient and proactive. By leveraging intelligent systems and data‑driven insights, I help reduce response times, improve productivity, and elevate service quality. I’m passionate about building environments where people, processes, and technology work in harmony and empower teams to deliver meaningful, long‑term impact for customers.
 
 ---
 
