@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Adeyemi Temitope Adejare</h1>
 <h3 align="center">IT Support Technician | Automation Specialist | Digital Workplace Engineer</h3>
 
-My focus is on delivering exceptional customer experiences through technical expertise, collaboration, and operational excellence. My role encompasses issue resolution, implementation success, and process optimization, ensuring that customers and partners receive timely, effective, and scalable solutions. I work closely with Engineering and Professional Services to align technology with business objectives and deliver a seamless, end-to-end support experience.
+I focus on delivering exceptional customer experiences through a blend of technical expertise, collaboration, and operational excellence. With a customer‑centric mindset, I prioritize high‑quality service, clear communication, and solutions that create lasting value. My work spans issue resolution, implementation success, and process optimization, ensuring customers and partners receive timely, effective, and scalable support. I collaborate closely with Engineering and Professional Services to align technology with business goals and provide a seamless end‑to‑end experience.
 
-A key part of my mission is driving automation, tooling, and AI-powered innovation to make your support operations more efficient and proactive. By leveraging intelligent systems and data-driven insights, I help reduce response times, boost productivity, and elevate service quality. I’m passionate about building an environment where people, processes, and technology work in harmony, thereby empowering teams to deliver meaningful, lasting impact for customers.
+A core part of my mission is driving automation, tooling, and AI‑powered innovation to make support operations more efficient and proactive. By leveraging intelligent systems and data‑driven insights, I help reduce response times, improve productivity, and elevate service quality. I’m passionate about building environments where people, processes, and technology work in harmony—empowering teams to deliver meaningful, long‑term impact for customers.
 
 ---
 
